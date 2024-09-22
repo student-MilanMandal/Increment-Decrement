@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="w-[100vw] h-[100vh] flex justify-center items-center bg-[#344151] flex-col gap-10">
       <div className="text-[#0398d4] font-medium text-2xl  ">
-        Increment & Decrement App By Milan
+        Increment & Decrement By Milan
       </div>
       <div className="bg-white flex justify-center gap-12 py-3 rounded-sm text-[25px] text-[#344151] border-[3px]  hover:border-[#F8D210] hover:rounded-lg ">
         <button
